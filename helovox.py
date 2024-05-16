@@ -5,8 +5,8 @@ import requests
 import time
 
 # Definir chaves da API diretamente no script
-openai_api_key = 'sk-helovoxapp-9Ogs233Xmu0m9A3Uj7UdT3BlbkFJ3JP6A15UaTawGom9bDMm'
-eleven_labs_api_key = 'aa93006c6fb22b75239fe4cf9a02c553'
+openai_api_key = 'Your Key'
+eleven_labs_api_key = 'Your Key'
 
 # Configurar chave da API do OpenAI
 openai.api_key = openai_api_key
