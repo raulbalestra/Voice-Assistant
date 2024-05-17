@@ -88,7 +88,3 @@ A função `main()` gerencia o ciclo principal de interação do assistente, cap
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](https://github.com/raulbalestra/Voice-Assistant/blob/6cbabdcc4cd98a1db7c5c646247b97f540668a68/License) para mais detalhes.
-
----
-
-Esse README cobre os principais aspectos do seu projeto e inclui o link direto para o arquivo de licença no seu repositório GitHub.
