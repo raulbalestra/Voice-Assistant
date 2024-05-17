@@ -26,8 +26,8 @@ Este projeto implementa um assistente de voz pessoal usando Python. Ele utiliza 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/raulbalestra/Voice-Assistant.git
+cd Voice-Assistant
 ```
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
@@ -87,5 +87,8 @@ A função `main()` gerencia o ciclo principal de interação do assistente, cap
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE]((https://github.com/raulbalestra/Voice-Assistant/blob/7e786369d6fff4428e09a29a0cbe2591458288a4/License)) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](https://github.com/raulbalestra/Voice-Assistant/blob/6cbabdcc4cd98a1db7c5c646247b97f540668a68/License) para mais detalhes.
 
+---
+
+Esse README cobre os principais aspectos do seu projeto e inclui o link direto para o arquivo de licença no seu repositório GitHub.
